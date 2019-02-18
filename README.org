@@ -1,3 +1,5 @@
+NOTICE: This repository has now been merged into https://github.com/GaloisInc/macaw; please refer to this latter location for future updates.
+
 * Overview
 
   The high level goal is to write and/or generate architecture-specific backends
